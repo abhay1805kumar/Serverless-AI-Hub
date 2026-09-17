@@ -2,10 +2,6 @@
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
-| Authors                                        |
-|------------------------------------------------|
-| [Lavi Nigam](https://github.com/lavinigam-gcp) |
-| [Holt Skinner](https://github.com/holtskinner) |
 
 This application demonstrates a Cloud Run application that uses the [Streamlit](https://streamlit.io/) framework.
 
@@ -104,4 +100,4 @@ To deploy the Streamlit Application in [Cloud Run](https://cloud.google.com/run/
 
 On successful deployment, you will be provided a URL to the Cloud Run service. You can visit that in the browser to view the Cloud Run application that you just deployed. Choose the functionality that you would like to check out and the application will prompt the Gemini API in Vertex AI and display the responses.
 
-Congratulations!
+
